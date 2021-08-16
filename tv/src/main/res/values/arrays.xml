@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="category_title">
+        <item>Películas</item>
+        <item>Series</item>
+        <item>Actores</item>
+        <item>Ajustes</item>
+    </array>
+</resources>
